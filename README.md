@@ -13,7 +13,7 @@ I’m especially passionate about emerging tech — including data science, AI, 
 * 🌍  I'm based in Chennai, India.
 * ✉️  You can contact me at [manuxrenganathan@gmail.com](mailto:manuxrenganathan@gmail.com)
 * 🚀  My current projects to showcase - [PokedexWebAppPokedexWebApp](http://github.com/r2398/PokedexWebApp), [TryCatchMeBlogSite](https://github.com/r2398/TryCatchMeBlogSite).
-* 🧠  I'm currently learning full-stack web development, and mainly focusing on frontend development for an intuitive [tutor bot project](https://github.com/r2398/TutorBot)!
+* 🧠  I'm currently learning full-stack development, and mainly focusing on frontend development for an intuitive [tutor bot project](https://github.com/r2398/TutorBot)!
 * 👥  I'm looking to collaborate on anything and everything! I'd love to dive into every aspect of tech to learn and gain new experiences.
 
 ### Skills

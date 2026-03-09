@@ -10,7 +10,7 @@ I’m a fast learner who adapts quickly to new tools, environments, and challeng
 
 I’m especially passionate about emerging tech — including data science, AI, and system optimization — and I’m always exploring ways to build smarter, more efficient solutions.
 
-* 🌍  I'm based in Chennai, India.
+* 🌍  I'm originally from Chennai, India and I live in Auckland right now.
 * ✉️  You can contact me at [manuxrenganathan@gmail.com](mailto:manuxrenganathan@gmail.com)
 * 🚀  My current projects to showcase - [PokedexWebAppPokedexWebApp](http://github.com/r2398/PokedexWebApp), [TryCatchMeBlogSite](https://github.com/r2398/TryCatchMeBlogSite).
 * 🧠  I'm currently learning full-stack development, and mainly focusing on frontend development for an intuitive [tutor bot project](https://github.com/r2398/TutorBot)!

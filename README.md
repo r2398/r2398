@@ -10,10 +10,10 @@ I’m a fast learner who adapts quickly to new tools, environments, and challeng
 
 I’m especially passionate about emerging tech — including data science, AI, and system optimization — and I’m always exploring ways to build smarter, more efficient solutions.
 
-* 🌍  I'm originally from Chennai, India and I live in Auckland right now.
+* 🌍  I'm originally from Chennai, India and I live in Auckland, New Zealand now.
 * ✉️  You can contact me at [manuxrenganathan@gmail.com](mailto:manuxrenganathan@gmail.com)
-* 🚀  My current projects to showcase - [PokedexWebAppPokedexWebApp](http://github.com/r2398/PokedexWebApp), [TryCatchMeBlogSite](https://github.com/r2398/TryCatchMeBlogSite), and [Tutor Anna App Design](https://github.com/r2398/TutorBot).
-* 🧠  I'm currently part of a full-stack development project, and mainly focusing on backend development for an intuitive web app named Growfriend. Inspired by traditional to-do list applications and virtual pet and progression-based games such as Tamagotchi and Pokémon. It combines structured task management with pet nurturing and evolution mechanics, creating a system where productivity directly drives growth and progression.
+* 🚀  My current projects to showcase - [PokedexWebAppPokedexWebApp](http://github.com/r2398/PokedexWebApp), [TryCatchMeBlogSite](https://github.com/r2398/TryCatchMeBlogSite), [Tutor Anna App Design](https://github.com/r2398/TutorBot), and [GrowFriend](https://github.com/r2398/GrowFriend).
+* 🧠  I've just completed a full-stack development project of an intuitive web app named '[Growfriend](https://growfriend-project.vercel.app)' as part of my Semester work in Uni. Inspired by traditional to-do list applications and virtual pet and progression-based games such as Tamagotchi, Pokémon, and Habitica. It combines structured task management with pet nurturing and evolution mechanics, creating a system where productivity directly drives growth and progression.
 * 👥  I'm looking to collaborate on anything and everything! I'd love to dive into every aspect of tech to learn and gain new experiences.
 
 ### Skills
